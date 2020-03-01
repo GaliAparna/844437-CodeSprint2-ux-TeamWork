@@ -1,0 +1,33 @@
+{
+    "PlaceAppointments":[
+        {
+            "Name":"Aparna",
+            "Address":"Banglore",
+            "City":"GHHU",
+            "Package":"1200",
+            "TrainerPreference":"female",
+           "Phone":9849074884
+            
+        },
+        {
+            "Name":"Santhan",
+            "Address":"Banglore",
+            "City":"GHHU",
+            "Package":"1200",
+            "TrainerPreference":"female",
+           "Phone":9849074884
+            
+            
+        },
+        {
+            "Name":"Sruthi",
+            "Address":"Banglore",
+            "City":"GHHU",
+            "Package":"1200",
+            "TrainerPreference":"female",
+           "Phone":9849074884
+            
+        }
+    ]
+}
+
